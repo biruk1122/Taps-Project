@@ -1,40 +1,57 @@
-📑 Tabs Component
-An interactive and responsive Tabs UI Component built with HTML, CSS, and JavaScript.
-It allows users to switch between different sections (History, Vision, Goals) with a smooth, intuitive interface.
+# 📑 Tabs Component
 
-✨ Features
-✅ Responsive design that works on all devices
-✅ Three tabs: History, Vision, and Goals
-✅ Smooth tab switching without reloading the page
-✅ Clean and modern design with custom CSS variables
+An interactive and responsive **Tabs UI Component** built with **HTML, CSS, and JavaScript**.  
+It allows users to switch between different sections (**History**, **Vision**, **Goals**) with a smooth, intuitive interface.
 
-🚀 Technologies Used
-HTML5 — Markup structure
+---
 
-CSS3 — Styling with CSS variables and media queries
+## ✨ Features
 
-Vanilla JavaScript — Tab switching logic
+- ✅ Responsive design that works on all devices
+- ✅ Three tabs: **History**, **Vision**, and **Goals**
+- ✅ Smooth tab switching without reloading the page
+- ✅ Clean and modern design with custom CSS variables
 
-📁 Project Structure
-bash
-Copy
-Edit
+---
+
+## 🚀 Technologies Used
+
+- **HTML5** — Markup structure
+- **CSS3** — Styling with CSS variables and media queries
+- **Vanilla JavaScript** — Tab switching logic
+
+---
+
+## 📁 Project Structure
+
 project-folder/
-├── index.html # Main HTML page
-├── style.css # CSS styles
-├── script.js # JavaScript functionality
-├── hero-bcg.jpeg # Image displayed in the UI
-🧑‍💻 How It Works
-The page displays a brief introduction and an image.
+- ├── index.html # Main HTML page
+- ├── style.css # CSS styles
+- ├── script.js # JavaScript functionality
+- ├── hero-bcg.jpeg # Image displayed in the UI
 
-Three tab buttons let the user choose which content section to view.
+  
+---
 
-Clicking a tab dynamically shows the related content by adding/removing active classes.
+## 🧑‍💻 How It Works
 
-🔧 Setup & Run Locally
-1️⃣ Clone or download this repository.
-2️⃣ Make sure all files (index.html, style.css, script.js, and hero-bcg.jpeg) are in the same folder.
-3️⃣ Open index.html in your browser to see it in action.
+- The page displays a brief introduction and an image.
+- Three tab buttons let the user choose which content section to view.
+- Clicking a tab dynamically shows the related content by adding/removing `active` classes.
 
-📷 Screenshot
-<img src="./file/sceenshot.PNG" alt="taps screenshot">
+---
+
+## 🔧 Setup & Run Locally
+
+1️⃣ Clone or download this repository.  
+2️⃣ Make sure all files (`index.html`, `style.css`, `script.js`, and `hero-bcg.jpeg`) are in the same folder.  
+3️⃣ Open `index.html` in your browser to see it in action.
+
+---
+
+## 📷 Screenshot
+
+<img src="./file/screenshot.PNG" alt="taps project">
+
+---
+
